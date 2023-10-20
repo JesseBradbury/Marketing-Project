@@ -14,7 +14,8 @@ I have also updated the title of the webpage and made minor formatting changes t
 ![Screenshot of asignment body](./assets/images/MainSS.png)
 
 ## Link
-*Insert link here*
+[Click here to view my project!](https://jessebradbury.github.io/Marketing-Project/)
+
 
 ## Credits
 
